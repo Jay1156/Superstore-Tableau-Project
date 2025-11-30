@@ -33,4 +33,5 @@ The objective of this project is to analyze overall sales performance, evaluate 
 
 ## Live Dashboard
 
-Paste your Tableau Public link here.
+**Dashboard 1** -https://public.tableau.com/app/profile/jay.bharne/viz/Book2_17645246049040/Dashboard1?publish=yes
+**Dashboard 2** -https://public.tableau.com/app/profile/jay.bharne/viz/Book1_17645244608110/Dashboard2?publish=yes
